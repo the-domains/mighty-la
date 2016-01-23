@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Mighty LA]]></title>
         <description><![CDATA[Mighty LA]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mighty-la/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 23:37:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Jan 2016 23:39:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mighty-la/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69c5c639-534d-4b3f-ba1a-912f7c568da8.jpg">]]></description>
+            <link>https://thegrid.ai/mighty-la/6b680f88-87ff-4fa0-9ec3-298397bdff1d/index.html</link>
+            <guid isPermaLink="false">6b680f88-87ff-4fa0-9ec3-298397bdff1d</guid>
+            <pubDate>Sat, 23 Jan 2016 23:39:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f510138-be1d-42ef-b15e-95ae62ab06c5.JPG">]]></description>
-            <link>undefined77990938-6a86-4df7-8e47-0a5e9c39da99/index.html</link>
+            <link>https://thegrid.ai/mighty-la/77990938-6a86-4df7-8e47-0a5e9c39da99/index.html</link>
             <guid isPermaLink="false">77990938-6a86-4df7-8e47-0a5e9c39da99</guid>
             <pubDate>Sat, 23 Jan 2016 23:37:03 GMT</pubDate>
         </item>
